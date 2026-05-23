@@ -1,6 +1,6 @@
-# Café Aroma — Trabalho Prático de React.js
+# The Brew House — Trabalho Prático de React.js
 
-Aplicação web de uma cafeteria fictícia chamada **Café Aroma**, desenvolvida como atividade acadêmica para a disciplina de Tópicos Avançados.
+Aplicação web de uma cafeteria fictícia chamada **The Brew House**, desenvolvida como atividade acadêmica para a disciplina de Tópicos Avançados.
 
 ---
 
