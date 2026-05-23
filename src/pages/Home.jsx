@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom'
 function Home() {
   return (
     <main className="home">
-      <section className="hero" aria-label="Boas-vindas à Café Aroma">
+      <section className="hero" aria-label="Boas-vindas à The Brew House">
         <div className="hero-conteudo">
           <p className="hero-tag">Bem-vindo ao</p>
-          <h1 className="hero-titulo">Café Aroma</h1>
+          <h1 className="hero-titulo">The Brew House</h1>
           <p className="hero-subtitulo">
             O lugar onde cada xícara conta uma história. Grãos selecionados,
             sabor inconfundível e um aconchego que você só encontra aqui.
@@ -32,7 +32,7 @@ function Home() {
 
       <section className="diferenciais" aria-label="Nossos diferenciais">
         <div className="container">
-          <h2 className="secao-titulo">Por que escolher o Café Aroma?</h2>
+          <h2 className="secao-titulo">Por que escolher o The Brew House?</h2>
           <div className="cards-grid">
             <article className="card-diferencial">
               <h3>Grãos Especiais</h3>

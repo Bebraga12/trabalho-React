@@ -3,11 +3,11 @@ import ProgressBar from '../components/ProgressBar'
 function Sobre() {
   return (
     <main className="sobre">
-      <section className="sobre-hero" aria-label="Sobre o Café Aroma">
+      <section className="sobre-hero" aria-label="Sobre o The Brew House">
         <div className="container">
           <h1 className="secao-titulo">Nossa História</h1>
           <p className="sobre-intro">
-            O Café Aroma nasceu de um sonho simples: criar um lugar onde as pessoas
+            O The Brew House nasceu de um sonho simples: criar um lugar onde as pessoas
             pudessem pausar o dia e saborear um café de verdade.
           </p>
         </div>
@@ -18,7 +18,7 @@ function Sobre() {
           <div className="sobre-texto">
             <h2>Como tudo começou</h2>
             <p>
-              Em 2012, Ana e Carlos Ferreira abriram as portas do Café Aroma em um
+              Em 2012, Ana e Carlos Ferreira abriram as portas do The Brew House em um
               pequeno espaço no centro da cidade. O casal, apaixonado por café desde
               que se conheceu numa viagem à Colômbia, queria trazer para o Brasil a
               cultura do café especial de uma forma acessível e aconchegante.
@@ -29,13 +29,13 @@ function Sobre() {
               aroma já te conquista antes de entrar, imagina o sabor", disse Ana.
             </p>
             <p>
-              Hoje, mais de uma década depois, o Café Aroma tem três unidades, uma
+              Hoje, mais de uma década depois, o The Brew House tem três unidades, uma
               equipe de 25 baristas e é reconhecido como um dos melhores cafés
               especiais da cidade.
             </p>
           </div>
-          <aside className="sobre-numeros" aria-label="Números do Café Aroma">
-            <h3>Café Aroma em números</h3>
+          <aside className="sobre-numeros" aria-label="Números do The Brew House">
+            <h3>The Brew House em números</h3>
             <ul className="numeros-lista">
               <li>
                 <strong>+10 anos</strong>
@@ -107,7 +107,7 @@ function Sobre() {
 
       <section className="sobre-equipe" aria-label="Nossa equipe">
         <div className="container">
-          <h2 className="secao-titulo">Quem faz o Café Aroma</h2>
+          <h2 className="secao-titulo">Quem faz o The Brew House</h2>
           <div className="cards-grid">
             <article className="card-membro">
               <div className="membro-avatar" aria-hidden="true">AF</div>

@@ -7,8 +7,8 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="navbar-conteudo">
-        <NavLink to="/" className="navbar-logo" aria-label="Ir para página inicial do Café Aroma">
-          Café Aroma
+        <NavLink to="/" className="navbar-logo" aria-label="Ir para página inicial do The Brew House">
+          The Brew House
         </NavLink>
         <nav className="navbar-nav" aria-label="Navegação principal">
           <ul role="list">
@@ -49,7 +49,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-conteudo">
         <div className="footer-marca">
-          <p className="footer-logo">Café Aroma</p>
+          <p className="footer-logo">The Brew House</p>
           <p>O sabor que aquece a alma.</p>
         </div>
         <div className="footer-links">
@@ -65,12 +65,12 @@ function Footer() {
           <address>
             <p>Rua das Flores, 142 — Centro</p>
             <p>(11) 3344-5566</p>
-            <p>contato@cafearoma.com.br</p>
+            <p>contato@thebrewhouse.com.br</p>
           </address>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>© 2024 Café Aroma. Todos os direitos reservados.</p>
+        <p>© 2024 The Brew House. Todos os direitos reservados.</p>
       </div>
     </footer>
   )

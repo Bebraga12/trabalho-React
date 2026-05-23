@@ -40,7 +40,7 @@ const SALGADOS = [
 
 const PERGUNTAS_FREQUENTES = [
   {
-    titulo: 'O Café Aroma faz delivery?',
+    titulo: 'O The Brew House faz delivery?',
     conteudo: 'Sim! Fazemos delivery em um raio de 5 km de cada unidade. Você pode fazer seu pedido pelo nosso site, app ou por telefone. O prazo de entrega é de 30 a 50 minutos.',
   },
   {
